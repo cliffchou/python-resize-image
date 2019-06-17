@@ -66,8 +66,7 @@ class TestResizeimage(unittest.TestCase):
         """
         Setup a temporary directory to store image
         """
-        # path = os.path.dirname(__file__)
-        path = os.path.dirname("F:/tensorflow/CMshow/error_picture")
+        path = os.path.dirname(__file__)
         self.test_image_filepath = os.path.join(path, "test-image.jpeg")
         tmpname = 'tmp-images'
         self._tmp_dir = os.path.join(path, tmpname)
@@ -75,14 +74,12 @@ class TestResizeimage(unittest.TestCase):
             shutil.rmtree(self._tmp_dir)
         os.makedirs(self._tmp_dir)
 
-    # 指定存储处理过后的图片路径
     def _tmp_filename(self, filename):
         """
         Get relative path for the given filename
         """
         return os.path.join(self._tmp_dir, filename)
 
-    # 获取指定路径下的图片
     @contextmanager
     def _open_test_image(self):
         with open(self.test_image_filepath, 'r+b') as f:
@@ -95,11 +92,11 @@ class TestResizeimage(unittest.TestCase):
         has the expected size
         """
         with self._open_test_image() as img:
-            img = resizeimage.resize_crop(img, [300, 300])
-            filename = self._tmp_filename('crop1.jpeg')
+            img = resizeimage.resize_crop(img, [200, 200])
+            filename = self._tmp_filename('crop.jpeg')
             img.save(filename, img.format)
             with Image.open(filename) as image:
-                self.assertEqual(image.size, (300, 300))
+                self.assertEqual(image.size, (200, 200))
 
     def test_can_not_resize_crop_larger_size(self):
         """

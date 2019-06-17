@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/tests/resize_crop_test.py" line="28" mnemonic="3" />
+    <bookmark url="file://$PROJECT_DIR$/tests/resize_crop_test.py" line="34" mnemonic="3" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74c018b2-d9d2-4f0c-bec2-72df17486ba4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/testchannelschange.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/channelchange/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/channelchange/changechannels.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/change_channels_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python-resize-image.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python-resize-image.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/resize_crop_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/resize_crop_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test-image.jpeg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/tmp-images/crop1.jpeg" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,30 +24,107 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DockManager">
-    <window id="1">
-      <content type="file-editors">
-        <state>
-          <leaf>
-            <file pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/tests/tests.py">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="475">
-                    <caret line="97" column="41" selection-start-line="97" selection-start-column="30" selection-end-line="97" selection-end-column="41" />
-                    <folding>
-                      <element signature="e#0#9#0" expanded="true" />
-                    </folding>
-                  </state>
-                </provider>
-              </entry>
-            </file>
-          </leaf>
-        </state>
-      </content>
-    </window>
-  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tests/change_channels_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="700">
+              <caret line="28" column="52" selection-start-line="28" selection-start-column="52" selection-end-line="28" selection-end-column="52" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/channelchange/changechannels.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="546">
+              <caret line="33" column="9" lean-forward="true" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/tests.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="57" column="7" selection-start-line="57" selection-start-column="7" selection-end-line="60" selection-end-column="16" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resizeimage/resizeimage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="546">
+              <caret line="94" column="14" selection-start-line="94" selection-start-column="14" selection-end-line="94" selection-end-column="14" />
+              <folding>
+                <element signature="e#55#86#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/resize_crop_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/python-resize-image/Lib/site-packages/PIL/Image.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66375">
+              <caret line="2660" selection-start-line="2660" selection-end-line="2660" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/unittest/case.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="14775">
+              <caret line="604" selection-start-line="604" selection-end-line="604" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resizeimage/imageexceptions.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret lean-forward="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/setup.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-104">
+              <folding>
+                <element signature="e#22#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -51,6 +139,7 @@
       <find>jepg</find>
       <find>resizeimage</find>
       <find>CROP</find>
+      <find>resize_contain</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -61,39 +150,45 @@
       <list>
         <option value="D:/python32/Lib/site-packages/PIL/Image.py" />
         <option value="$PROJECT_DIR$/tests/tmp-images/tttt.py" />
-        <option value="$PROJECT_DIR$/tests/tests.py" />
         <option value="$PROJECT_DIR$/tests/tttt.py" />
+        <option value="$PROJECT_DIR$/resizeimage/resizeimage.py" />
+        <option value="$PROJECT_DIR$/tests/tests.py" />
         <option value="$PROJECT_DIR$/tests/resize_crop_test.py" />
+        <option value="$PROJECT_DIR$/channelchange/change_image_channels.py" />
+        <option value="$PROJECT_DIR$/tests/change-channels-test.py" />
+        <option value="$PROJECT_DIR$/channelchange/changechannels.py" />
+        <option value="$PROJECT_DIR$/tests/tmp-images/test_model.py" />
+        <option value="$PROJECT_DIR$/tests/change_channels_test.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/python-resize-image.iml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-26" />
-    <option name="width" value="1237" />
-    <option name="height" value="1047" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="343" />
+    <option name="y" value="-17" />
+    <option name="width" value="1062" />
+    <option name="height" value="957" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="python-resize-image" type="b2602c69:ProjectViewProjectNode" />
               <item name="python-resize-image" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-resize-image" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-resize-image" type="462c0819:PsiDirectoryNode" />
+              <item name="channelchange" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-resize-image" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-resize-image" type="462c0819:PsiDirectoryNode" />
+              <item name="python_resize_image.egg-info" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python-resize-image" type="b2602c69:ProjectViewProjectNode" />
@@ -105,21 +200,17 @@
               <item name="python-resize-image" type="462c0819:PsiDirectoryNode" />
               <item name="tests" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="python-resize-image" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python-resize-image" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-              <item name="tmp-images" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="D:/python-resize-image" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/script" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -141,7 +232,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.resize_crop_test">
+  <component name="RunManager" selected="Python tests.Unittests for change_channels_test.TestChangeChannels.test_change_channels">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="python-resize-image" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="resize_crop_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-resize-image" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -156,28 +269,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tests/resize_crop_test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test_setups" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python-resize-image" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/unittest/test" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/unittest/test/test_setups.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -208,6 +299,36 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Unittests for change_channels_test.TestChangeChannels.test_change_channels" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="python-resize-image" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;change_channels_test.TestChangeChannels.test_change_channels&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for tests.TestResizeimage.test_resize_contain" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="python-resize-image" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests.TestResizeimage.test_resize_contain&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="Unittests for tests.TestResizeimage.test_resize_crop" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="python-resize-image" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -223,28 +344,12 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for tests.TestResizeimage.test_resize_thumbnail" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="python-resize-image" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;tests.TestResizeimage.test_resize_thumbnail&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests for change_channels_test.TestChangeChannels.test_change_channels" />
         <item itemvalue="Python.resize_crop_test" />
+        <item itemvalue="Python tests.Unittests for tests.TestResizeimage.test_resize_contain" />
         <item itemvalue="Python.tttt" />
-        <item itemvalue="Python tests.Unittests for tests.TestResizeimage.test_resize_crop" />
-        <item itemvalue="Python.test_setups" />
-        <item itemvalue="Python tests.Unittests for tests.TestResizeimage.test_resize_thumbnail" />
       </list>
     </recent_temporary>
   </component>
@@ -260,54 +365,57 @@
       <updated>1560173074743</updated>
       <workItem from="1560173076028" duration="783000" />
       <workItem from="1560173904634" duration="4193000" />
-      <workItem from="1560325892284" duration="8197000" />
+      <workItem from="1560325892284" duration="21062000" />
+      <workItem from="1560739459129" duration="41000" />
+      <workItem from="1560739516652" duration="12960000" />
+      <workItem from="1560763329106" duration="5785000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_tests_py - 2019.06.10 at 22h 14m 45s.xml">
-      <configuration name="Unittests in tests.py" configurationId="tests" />
+    <history-entry file="Unittests_for_change_channels_test_TestChangeChannels_test_change_channels - 2019.06.17 at 14h 25m 04s.xml">
+      <configuration name="Unittests for change_channels_test.TestChangeChannels.test_change_channels" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_tests_py - 2019.06.10 at 22h 16m 21s.xml">
-      <configuration name="Unittests in tests.py" configurationId="tests" />
+    <history-entry file="Unittests_for_change_channels_test_TestChangeChannels_test_change_channels - 2019.06.17 at 14h 25m 23s.xml">
+      <configuration name="Unittests for change_channels_test.TestChangeChannels.test_change_channels" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_tests_TestResizeimage_test_resize_thumbnail - 2019.06.12 at 16h 00m 33s.xml">
-      <configuration name="Unittests for tests.TestResizeimage.test_resize_thumbnail" configurationId="tests" />
+    <history-entry file="Unittests_for_change_channels_test_TestChangeChannels_test_change_channels - 2019.06.17 at 14h 26m 36s.xml">
+      <configuration name="Unittests for change_channels_test.TestChangeChannels.test_change_channels" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_tests_TestResizeimage_test_resize_crop - 2019.06.12 at 16h 04m 21s.xml">
-      <configuration name="Unittests for tests.TestResizeimage.test_resize_crop" configurationId="tests" />
+    <history-entry file="Unittests_for_change_channels_test_TestChangeChannels_test_change_channels - 2019.06.17 at 14h 27m 06s.xml">
+      <configuration name="Unittests for change_channels_test.TestChangeChannels.test_change_channels" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_tests_TestResizeimage_test_resize_crop - 2019.06.12 at 16h 06m 10s.xml">
-      <configuration name="Unittests for tests.TestResizeimage.test_resize_crop" configurationId="tests" />
+    <history-entry file="Unittests_for_change_channels_test_TestChangeChannels_test_change_channels - 2019.06.17 at 14h 38m 46s.xml">
+      <configuration name="Unittests for change_channels_test.TestChangeChannels.test_change_channels" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_tests_TestResizeimage_test_resize_crop - 2019.06.12 at 16h 22m 34s.xml">
-      <configuration name="Unittests for tests.TestResizeimage.test_resize_crop" configurationId="tests" />
+    <history-entry file="Unittests_for_change_channels_test_TestChangeChannels_test_change_channels - 2019.06.17 at 14h 40m 19s.xml">
+      <configuration name="Unittests for change_channels_test.TestChangeChannels.test_change_channels" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_tests_TestResizeimage_test_resize_crop - 2019.06.12 at 16h 23m 10s.xml">
-      <configuration name="Unittests for tests.TestResizeimage.test_resize_crop" configurationId="tests" />
+    <history-entry file="Unittests_for_change_channels_test_TestChangeChannels_test_change_channels - 2019.06.17 at 14h 43m 13s.xml">
+      <configuration name="Unittests for change_channels_test.TestChangeChannels.test_change_channels" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_tests_TestResizeimage_test_resize_crop - 2019.06.12 at 16h 23m 31s.xml">
-      <configuration name="Unittests for tests.TestResizeimage.test_resize_crop" configurationId="tests" />
+    <history-entry file="Unittests_for_change_channels_test_TestChangeChannels_test_change_channels - 2019.06.17 at 14h 43m 32s.xml">
+      <configuration name="Unittests for change_channels_test.TestChangeChannels.test_change_channels" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_tests_TestResizeimage_test_resize_crop - 2019.06.12 at 16h 44m 31s.xml">
-      <configuration name="Unittests for tests.TestResizeimage.test_resize_crop" configurationId="tests" />
+    <history-entry file="Unittests_for_change_channels_test_TestChangeChannels_test_change_channels - 2019.06.17 at 21h 06m 39s.xml">
+      <configuration name="Unittests for change_channels_test.TestChangeChannels.test_change_channels" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_tests_TestResizeimage_test_resize_crop - 2019.06.12 at 16h 45m 06s.xml">
-      <configuration name="Unittests for tests.TestResizeimage.test_resize_crop" configurationId="tests" />
+    <history-entry file="Unittests_for_change_channels_test_TestChangeChannels_test_change_channels - 2019.06.17 at 21h 23m 30s.xml">
+      <configuration name="Unittests for change_channels_test.TestChangeChannels.test_change_channels" configurationId="tests" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13173000" />
+    <option name="totallyTimeSpent" value="44824000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-56" y="0" width="1237" height="1047" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2748936" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12433298" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3287037" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.26454446" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32826087" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.21630435" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -317,47 +425,39 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.27442372" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" x="0" y="0" width="215" height="847" id="Documentation" order="5" side_tool="true" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/python_resize_image$Unittests_for_change_channels_test_TestChangeChannels_test_change_channels.coverage" NAME="Unittests for change_channels_test.TestChangeChannels.test_change_channels Coverage Results" MODIFIED="1560777792731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
     <SUITE FILE_PATH="coverage/python_resize_image$Unittests_for_tests_TestResizeimage_test_resize_thumbnail.coverage" NAME="Unittests for tests.TestResizeimage.test_resize_thumbnail Coverage Results" MODIFIED="1560326433490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
     <SUITE FILE_PATH="coverage/python_resize_image$Unittests_for_tests_TestValidateDecorator.coverage" NAME="Unittests for tests.TestValidateDecorator Coverage Results" MODIFIED="1560173840725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
     <SUITE FILE_PATH="coverage/python_resize_image$Unittests_for_tests_TestResizeimage.coverage" NAME="Unittests for tests.TestResizeimage Coverage Results" MODIFIED="1560174399742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
     <SUITE FILE_PATH="coverage/python_resize_image$tttt.coverage" NAME="tttt Coverage Results" MODIFIED="1560329258384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
-    <SUITE FILE_PATH="coverage/python_resize_image$resize_crop_test.coverage" NAME="resize_crop_test Coverage Results" MODIFIED="1560337414035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/python_resize_image$resize_crop_test.coverage" NAME="resize_crop_test Coverage Results" MODIFIED="1560394094884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
     <SUITE FILE_PATH="coverage/python_resize_image$Unittests_in_tests_py.coverage" NAME="Unittests in tests.py Coverage Results" MODIFIED="1560176180749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
     <SUITE FILE_PATH="coverage/python_resize_image$test_setups.coverage" NAME="test_setups Coverage Results" MODIFIED="1560328663789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/unittest/test" />
     <SUITE FILE_PATH="coverage/python_resize_image$Unittests_for_tests_TestResizeimage_test_resize_crop.coverage" NAME="Unittests for tests.TestResizeimage.test_resize_crop Coverage Results" MODIFIED="1560329106130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/python_resize_image$Unittests_for_tests_TestResizeimage_test_resize_contain.coverage" NAME="Unittests for tests.TestResizeimage.test_resize_contain Coverage Results" MODIFIED="1560391214263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/python_resize_image.egg-info/requires.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/tmp-images/resize-cover.jpeg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/tmp-images/resize-cover.jpeg" />
     <entry file="file://D:/python32/Lib/site-packages/PIL/Image.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2364">
           <caret line="37" column="4" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/setup.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4">
-          <folding>
-            <element signature="e#22#31#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -375,15 +475,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/tmp-images/resize-contain-larger.jpeg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/tmp-images/resize-contain.jpeg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/tmp-images/resize-width.jpeg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/tmp-images/resize-contain-larger.jpeg" />
+    <entry file="file://$PROJECT_DIR$/tests/tmp-images/resize-contain.jpeg" />
+    <entry file="file://$PROJECT_DIR$/tests/tmp-images/resize-width.jpeg" />
     <entry file="file://$PROJECT_DIR$/tests/tmp-images/resize-cover.png" />
     <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/1522188412/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -399,9 +493,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/tmp-images/resize-height.jpeg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/tmp-images/resize-height.jpeg" />
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Tools/pynche/pyColorChooser.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
@@ -409,9 +501,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/tmp-images/resize-thumbnail.jpeg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/tmp-images/resize-thumbnail.jpeg" />
     <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/1522188412/_struct.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="148">
@@ -419,18 +509,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resizeimage/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/tmp-images/crop.jpeg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/tmp-images/crop.jpeg" />
     <entry file="file://$PROJECT_DIR$/tests/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/test.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test.png" />
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/unittest/test/test_setups.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="825">
@@ -452,27 +535,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/tests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="97" column="41" selection-start-line="97" selection-start-column="30" selection-end-line="97" selection-end-column="41" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/test-image-cover.jpeg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test-image-cover.jpeg" />
     <entry file="file://$PROJECT_DIR$/tests/tmp-images/crop1.jpeg">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/test-image.jpeg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resizeimage/imageexceptions.py">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/resizeimage/helpers.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -484,20 +549,103 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resizeimage/resizeimage.py">
+    <entry file="file://$PROJECT_DIR$/resizeimage/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/os.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2350">
-          <caret line="94" column="13" selection-start-line="94" selection-start-column="13" selection-end-line="94" selection-end-column="13" />
+        <state relative-caret-position="5425">
+          <caret line="219" selection-start-line="219" selection-end-line="219" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python-resize-image/Lib/site-packages/PIL/Image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66375">
+          <caret line="2660" selection-start-line="2660" selection-end-line="2660" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14775">
+          <caret line="604" selection-start-line="604" selection-end-line="604" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/tmp-images/test_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/channelchange/changechannels.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="33" column="9" lean-forward="true" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
           <folding>
-            <element signature="e#55#86#0" expanded="true" />
+            <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/resize_crop_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        <state relative-caret-position="25">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="57" column="7" selection-start-line="57" selection-start-column="7" selection-end-line="60" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resizeimage/resizeimage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="94" column="14" selection-start-line="94" selection-start-column="14" selection-end-line="94" selection-end-column="14" />
+          <folding>
+            <element signature="e#55#86#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resizeimage/imageexceptions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test-image.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-104">
+          <folding>
+            <element signature="e#22#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/change_channels_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="28" column="52" selection-start-line="28" selection-start-column="52" selection-end-line="28" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
